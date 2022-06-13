@@ -8,7 +8,7 @@ const Header = () => {
                 <Image height={"40"} width={"150"} className={"cursor-pointer"} objectFit={"contain"} src={"https://lh3.googleusercontent.com/W___zmsZ4S_JDLOjhkdkkEcMm1xmDOBSrmwvJzjrkz9A3g33yX7xAmia6HS4hWbfENBQBXFF_J4KGYFIPxuMF6zE5GOSY8JiLQ=s0"}></Image>
             </div>
             <div className="hidden sm:flex cursor-pointer items-center flex-grow rounded-md h-10 bg-yellow-400 hover:bg-yellow-500">
-                <input className="p-2 w-6 flex-grow  h-full rounded-l-md focus:outline-none" type="text"/>
+                <input className="p-2 w-6 flex-grow h-full rounded-l-md focus:outline-none" type="text"/>
                 <SearchIcon className={"h-12 p-4"}/>
             </div>
             <div className="flex text-white items-center text-xs space-x-6 mx-6 md:text-sm">
